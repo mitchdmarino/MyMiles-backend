@@ -1,0 +1,14 @@
+{
+  "name": "mymiles-backend",
+  "version": "1.0.0",
+  "description": "backend server for myMiles application",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
